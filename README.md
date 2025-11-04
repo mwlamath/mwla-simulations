@@ -57,8 +57,7 @@ Instead of only measuring flow velocity or pressure, this run tracks how well th
 u = (1, 0) on the top lid; u = 0 elsewhere
 D = ν I; S = 0
 
-markdown
-Copy code
+
 
 **Results**
 - Total defect Σ Dᵢ stayed within machine epsilon (~10⁻¹⁵)  
