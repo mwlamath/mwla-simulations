@@ -20,7 +20,7 @@ venv/
 Thumbs.db
 
 # Simulation data
-*.zip
+
 *.h5
 *.npz
 *.npy
@@ -33,7 +33,7 @@ outputs/
 media/
 
 # Large or generated content
-*.png
+
 *.jpg
 *.mp4
 *.gif
