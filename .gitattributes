@@ -1,0 +1,12 @@
+# Normalize line endings
+* text=auto
+
+# Treat Jupyter notebooks as text for diffs
+*.ipynb diff=ipynb
+
+# Use LFS for large binary/media files
+*.zip filter=lfs diff=lfs merge=lfs
+*.png filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs
+*.h5 filter=lfs diff=lfs merge=lfs
+*.mp4 filter=lfs diff=lfs merge=lfs

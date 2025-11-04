@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Environment / IDE
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Simulation data
+*.zip
+*.h5
+*.npz
+*.npy
+*.csv
+*.log
+*.bak
+*.tmp
+results/
+outputs/
+media/
+
+# Large or generated content
+*.png
+*.jpg
+*.mp4
+*.gif
+
+# Jupyter notebooks (optional)
+*.ipynb
