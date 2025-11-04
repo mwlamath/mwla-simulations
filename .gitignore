@@ -1,4 +1,4 @@
-# Python
+# Python cache and build
 __pycache__/
 *.pyc
 *.pyo
@@ -19,24 +19,21 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Simulation data
-
-*.h5
-*.npz
-*.npy
-*.csv
+# Logs and temp files
 *.log
 *.bak
 *.tmp
-results/
-outputs/
-media/
 
-# Large or generated content
-
-*.jpg
-*.mp4
-*.gif
+# Large generated data (optional ignore, keep results!)
+# NOTE: We now ALLOW results, media, and zip/png to be tracked.
+# comment these out if you need to push output archives
+# results/
+# media/
+# *.zip
+# *.png
+# *.jpg
+# *.mp4
+# *.gif
 
 # Jupyter notebooks (optional)
 *.ipynb
