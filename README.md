@@ -66,7 +66,7 @@ D = ν I; S = 0
 
 **Artifacts**
 - 🧩 [Source code](./sims/cavity/code/mwla_cavity_v2_3_1.py)  
-- 📦 [Results archive](./sims/cavity/results/mwla_outputssuccess1.zip)  
+- 📦 [Results archive](./sims/cavity/results)  
 - 🖼️ [Visualization](./sims/cavity/media/mwla_cavity.png)  
 - 📘 [Instructions](./sims/cavity/INSTRUCTIONS.md)
 
